@@ -7,3 +7,4 @@ Among all tested models, Multinomial Naive Bayes (MNB) achieved the best perform
 
 The final trained model was saved in .pkl format and deployed through a Streamlit-based web interface for real-time spam message prediction.
 
+If you found this project helpful, please consider giving it a ⭐ to show your support!
